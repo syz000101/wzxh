@@ -57,3 +57,5 @@ def export_to_csv(data, path_name):
 
 if __name__ == "__main__":
     main(r'C:\Users\S_YZ\OneDrive\桌面')
+
+print(1)
